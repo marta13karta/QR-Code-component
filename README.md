@@ -1,3 +1,5 @@
+LIVE WEBPAGE ------ https://marta13karta.github.io/QR-Code-component/ 
+
 # Frontend Mentor - QR code component
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
